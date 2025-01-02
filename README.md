@@ -53,6 +53,6 @@ To run the project:
 If you would like to contribute to this project, feel free to submit a pull request or open an issue. All feedback is welcome!
 
 ## License
-This project is licensed under the MIT License. Feel free to use it as you wish.
+This project is licensed under the [MIT License](LICENSE). Feel free to use it as you wish.
 
 © 2025 - Maiden's Tower Website
