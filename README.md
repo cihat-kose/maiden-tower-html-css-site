@@ -10,28 +10,34 @@ This project is a simple website about the Maiden's Tower, created using HTML5 a
 - Navigation Menu: Simple menu directing to the homepage, "Who am I?", education, and contact pages.
 
 ## Project Structure
+```
 /
-|-- index.html              # Homepage
-|-- ben-kimim.html          # "Who am I?" page
-|-- egitim.html             # Education page
-|-- iletisim.html           # Contact page
-|-- style.css               # CSS file
-|-- Images/                 # Images used in the project
-    |-- business-man.png    
-    |-- kiz-kulesi-gunes-batarken.jpg
-    |-- kız kulesi konum.png
-    |-- 20-social-media-icons/
-|-- README.md               # Project description (This file)
-|-- template.html           # HTML template file
+│-- index.html              # Homepage
+│-- ben-kimim.html          # "Who am I?" page
+│-- egitim.html             # Education page
+│-- iletisim.html           # Contact page
+│-- style.css               # CSS file
+│-- Images/                 # Images used in the project
+│   │-- business-man.png    
+│   │-- kiz-kulesi-gunes-batarken.jpg
+│   │-- kız kulesi konum.png
+│   └── 20-social-media-icons/
+│-- README.md               # Project description (This file)
+└-- template.html           # HTML template file
+```
 
 ## Installation
 To run the project:
 
 1. Clone the repository:
-   git clone https://github.com/username/maidens-tower-web.git
+   ```bash
+   git clone https://github.com/cihat-kose/maiden-tower-html-css-site.git
+   ```
 
 2. Navigate to the project directory:
-   cd maidens-tower-web
+   ```bash
+   cd maiden-tower-html-css-site
+   ```
 
 3. Open index.html in your browser.
 
